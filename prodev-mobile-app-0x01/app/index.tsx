@@ -1,8 +1,8 @@
 import { Image } from 'expo-image';
 import { Platform, StyleSheet, Text } from 'react-native';
 
-import { HelloWave } from '@/components/HelloWave';
-import ParallaxScrollView from '@/components/ParallaxScrollView';
+import { HelloWave } from '@/app-example/components/HelloWave';
+import ParallaxScrollView from '@/app-example/components/ParallaxScrollView';
 
 import { View } from 'react-native-reanimated/lib/typescript/Animated';
 
